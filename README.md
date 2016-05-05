@@ -1,4 +1,3 @@
 # gitskills
 Creating a new branch is quick.
-add second line.
-test feature1
+add second line on feature1.
